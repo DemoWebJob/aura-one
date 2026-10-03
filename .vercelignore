@@ -1,0 +1,20 @@
+.git
+.github
+node_modules
+.next
+out
+.vercel
+.env*
+*.docx
+*.zip
+ẢNH SP*
+caeli_*
+.vscode
+.idea
+scratch
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.log
+next-env.d.ts
